@@ -1,0 +1,6 @@
+instructions:
+  - Analyze the provided build logs and the C++ test file(s).
+  - Identify and fix any compilation or linking errors.
+  - Correct any issues in the test code or includes.
+  - Ensure the tests compile and run successfully with Google Test.
+  - Output the fixed test file(s) and describe the changes made. 

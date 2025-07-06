@@ -1,0 +1,7 @@
+instructions:
+  - Generate unit tests for the provided C++ file using Google Test.
+  - Do not create duplicate tests.
+  - Add all necessary #include statements.
+  - Format code according to C++ best practices.
+  - Ensure each function in the input file is covered by at least one test.
+  - Output the tests in a file named test_<input_filename>.cpp. 

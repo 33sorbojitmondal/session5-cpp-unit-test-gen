@@ -1,0 +1,7 @@
+instructions:
+  - Review the provided unit test file(s) for the C++ code.
+  - Remove any duplicate or redundant tests.
+  - Add any missing #include statements or libraries required for compilation.
+  - Ensure all functions in the input C++ file are covered by at least one test.
+  - Improve code formatting and follow C++ best practices.
+  - Output the refined tests in the same file(s), ready for compilation with Google Test. 
